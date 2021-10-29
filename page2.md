@@ -2,5 +2,5 @@
 title: Introduction to German
 ---
 
-<h1>Page 2</h1>
+<h1>Introduction to German</h1>
 <p>Some content</p>
