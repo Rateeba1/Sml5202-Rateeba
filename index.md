@@ -1,5 +1,5 @@
 ---
-title: home
+title: German Language Learning
 ---
 
 <h1>Welcome</h1>
