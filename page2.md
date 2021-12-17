@@ -16,11 +16,12 @@ title: Introduction to German
 <p>On September 7, 1949, the German Bundestag held its first constituent meeting in Bonn. Four years after the end of the war and the collapse of the National Socialist government, this signified a fresh beginning in the west of the partitioned country's west.  Since then, the German Bundestag has been at the foundation of the democratic system of the Federal Republic of Germany.</p>
 </div>
   
-<div class="row">
-<div class="col-sm-6">
+<div class="col-sm-3">
  <p>Column 1</p> 
 </div>
 
-<div class="col-sm-6">
+<div class="col-sm-3">
  <p>Column 2</p>
+</div>
+
 </div>
