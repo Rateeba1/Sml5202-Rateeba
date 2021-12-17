@@ -6,7 +6,7 @@ title: Introduction to German
 <p>Some content</p>
 <div class="row">
 <div class="col-sm-3">
-<h3>Column 1</h3>
+<h3>Schloss Neuschwanstein</h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
 <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
 </div>
