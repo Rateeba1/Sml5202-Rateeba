@@ -12,3 +12,7 @@ title: German Language Learning
 <li>Improves fluency</li>
 <li>Improves vocabulary&nbsp;</li>
 </ul>
+
+<h1>Content</h1>
+<p> The following pages will include the following topics:
+  </p>
