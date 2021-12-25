@@ -15,7 +15,7 @@ title: German Language Learning
 
 <h1>Content</h1>
 <p> The following pages will include the following topics:
-History 
+<p> History 
 <ul>
   <li>Schloss Neuschwanstein</li>
   <li>Deutscher Bundestag</li>
