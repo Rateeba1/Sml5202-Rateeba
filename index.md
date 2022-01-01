@@ -16,7 +16,8 @@ title: German Language Learning
 <p>Benefits of learning German:</p>
 <ul>
 <li>Opens up new work prospects - there are increasing number of organisations from all over the world that are looking for German speakers</li>
-<li>German culture is extensively recognised globally - German culture is widely embraced over the world, e.g it's food, festivals, and globally famous companies.</li>
+<li>German culture is extensively recognised globally - German culture is widely embraced over the world, e.g it's food, festivals, and globally famous companies</li>
+<li>German is the second most often used scientific language, and it is the third greatest contributor to research and development</li>
 </ul>
 
 
