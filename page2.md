@@ -9,7 +9,7 @@ title: Introduction to German
  
 
 <h3>Schloss Neuschwanstein</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+<p>The most popular and visited castle in Germany is Schloss Neuschwanstein. This castle was created as a palace for King Ludwig II of Bavaria. </p>
 <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
 </div>
 <div class="col-sm-3">
