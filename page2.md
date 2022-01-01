@@ -6,7 +6,7 @@ title: Introduction to German
 <p>Some content</p>
 <div class="row">
 <div class="col-sm-3">
-<img src=https://upload.wikimedia.org/wikipedia/commons/a/ae/Castle_Neuschwanstein.jpg style="width:100x;height:100px;">
+<p><img src=https://upload.wikimedia.org/wikipedia/commons/a/ae/Castle_Neuschwanstein.jpg style="width:100x;height:100px;">
 
 <h3>Schloss Neuschwanstein</h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
