@@ -9,7 +9,8 @@ title: Introduction to German
  
 
 <h3>Schloss Neuschwanstein</h3>
-<p>The most popular and visited castle in Germany is Schloss Neuschwanstein. This castle was created as a palace for King Ludwig II of Bavaria. </p>
+<p>The most popular and visited castle in Germany is Schloss Neuschwanstein. This castle was created as a palace for King Ludwig II of Bavaria. According to the Bavarian Castle Administration, King Ludwig II was unable to see the finished Neuschwanstein. The construction of the castle lasted for around 25 years. The final towers were completed by 1892 which was after his death in 1886. With a building cost of 7 million marks, Neuschwanstein Castle was one of Europe's most expensive castles. Neuschwanstein Castle attracts 1.3 million visitors each year.
+</p>
 <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
 </div>
 <div class="col-sm-3">
