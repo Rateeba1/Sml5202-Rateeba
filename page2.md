@@ -20,11 +20,15 @@ title: Introduction to German
 </div>
   
 <div class="col-sm-3">
- <p>Column 1</p> 
+<h3>Cologne Cathedral</h3>
+<p>Cologne Cathedral is a Roman Catholic cathedral. The cathedral is the world's tallest twin-spired church, as well as Northern Europe's largest Gothic church. In 1248, the 818 Church was destroyed by fire to make way for the new cathedral. Despite being attacked 14 times by aircraft bombs during WWII, the church still remained standing. The cathedral has become a very popular tourist destination in Germany. Visitors climb the 533 stone steps of the spiral staircase which allows them to see a view over the Rhine. 
+</p> 
 </div>
 
 <div class="col-sm-3">
- <p>Column 2</p>
+<h3>Romer</h3>
+<p>The medieval Römer building is a significant part of the Römerplatz (Römer Square) in Frankfurt's Altstadt and is one of the city's most famous buildings. The Kaisersaal, also known as the Emperor's Hall, was where grand coronation feasts were held and where Napoleon, Russian Czars, and other royals paid visits.
+</p>
 </div>
 
 </div>
