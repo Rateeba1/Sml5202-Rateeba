@@ -12,10 +12,6 @@
 </p>
 </div>
 
-<h3> Food and drink:</h3>
-<p>Over 1 million gallons of beer is consumed during the festival. The beer comes from six old traditional breweries based in Munich. Pretzel, Bratwurst, Wiener Schnitzel are all popular foods you can find at the festival. 
-</p>
-</div>
 
 <div class="col-sm-6">
 <h3>Fest</h3> 
