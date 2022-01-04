@@ -15,5 +15,10 @@
 </p>
 </div>   
 
+<div class="row">
 <div class="col-sm-6">
+
 <h3>Fest</h3> 
+<p>The medieval Römer building is a significant part of the Römerplatz (Römer Square) in Frankfurt's Altstadt and is one of the city's most famous buildings. The Kaisersaal, also known as the Emperor's Hall, was where grand coronation feasts were held and where Napoleon, Russian Czars, and other royals paid visits.
+</p>
+</div>
