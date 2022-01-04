@@ -9,10 +9,12 @@ title: Introduction to German
  
 
 <h3>Schloss Neuschwanstein</h3>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Schloss_Neuschwanstein%2C_view_from_Marienbrücke.jpg" width="100" height="50"></p>
 <p>The most popular and visited castle in Germany is Schloss Neuschwanstein. This castle was created as a palace for King Ludwig II of Bavaria. According to the Bavarian Castle Administration, King Ludwig II was unable to see the finished Neuschwanstein. The construction of the castle lasted for around 25 years. The final towers were completed by 1892 which was after his death in 1888. Neuschwanstein literally translates to "new swan stone." The swan represents purity in Christianity. The castle was originally known as "Neue Burg Hohenschwangau," but following Ludwig's death, it was renamed Neuschwanstein. Wagner, Ludwig II's close personal friend, was honoured throughout the castle. Wagner's impact on the castle is evident, with several paintings inspired by his works adorning the inside of the castle.  With a building cost of 7 million marks, Neuschwanstein Castle was one of Europe's most expensive castles. Neuschwanstein Castle attracts 1.3 million visitors each year.
 </p>
 <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
 </div>
+
 <div class="col-sm-3">
 <h3>Deutscher Bundestag</h3>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_reichstag_west_panorama_2.jpg/800px-Berlin_reichstag_west_panorama_2.jpg" style="width:100%"></p>
