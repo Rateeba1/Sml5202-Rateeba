@@ -11,7 +11,8 @@
 </div>
 
 <div class="col-sm-6">
-<h3>Fest</h3> 
-<p>The medieval Römer building is a significant part of the Römerplatz (Römer Square) in Frankfurt's Altstadt and is one of the city's most famous buildings. The Kaisersaal, also known as the Emperor's Hall, was where grand coronation feasts were held and where Napoleon, Russian Czars, and other royals paid visits.
+<h3>Fasching (Karneval)</h3> 
+<p>Fasching, commonly known as Karneval or Fastnacht, is a historic German festival.Fasching is a German tradition that is observed in all German-speaking countries. Fasching allows people to rejoice and have enjoyment before Lent begins.Germany hosts the largest and most colourful carnivals to commemorate the Fasching season, with each city hosting its unique festivities.Cologne also known as Köln hosts one of the country's largest carnival events.
 </p>
+Fresh pretzels, hot sausages (Bratwurst) or Krapfen, and doughnuts are among the menu items. Rosehip Jam, which is also used to produce Karneval sweets, is also available for purchase. Hot-spiced wine (Glühwein) is one among the drinks provided, which keeps people warm. </p>
 </div>
