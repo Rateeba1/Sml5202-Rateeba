@@ -7,6 +7,9 @@
 <h3>Oktoberfest</h3>
 <p> The Oktoberfest is a Bavarian cultured fesitval in Gernamny whic has grown into a global event. It begins at the end of September and runs until the first Sunday of October. It takes place every year outside of Munich's city centre. The festival takes place on the Theresienwiese. On the opening weekend, costumed artists and musicians stroll through the center of Munich to celebrate the start of the Oktoberfest. Another common tradition of the festival is a colourful parade through Munich. 
 </p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/German_Bratwürste.jpg" width="500" height="333"></p>
+
+
 <p>The food and drink is also an important part of the Fest. Over 1 million gallons of beer is consumed during the festival. The beer comes from six old traditional breweries based in Munich. Pretzel, Bratwurst, Wiener Schnitzel are all popular foods you can find at the festival.</p>
 </div>
 
