@@ -30,6 +30,7 @@ title: Introduction to German
 
 <div class="col-sm-3">
 <h3>Romer</h3>
+<p><img src= "https://upload.wikimedia.org/wikipedia/commons/b/b5/Römer%2C_Frankfurt.jpg"width="250" height="133">
 <p>The medieval Römer building is a significant part of the Römerplatz (Römer Square) in Frankfurt's Altstadt and is one of the city's most famous buildings. The Kaisersaal, also known as the Emperor's Hall, was where grand coronation feasts were held and where Napoleon, Russian Czars, and other royals paid visits.
 </p>
 </div>
