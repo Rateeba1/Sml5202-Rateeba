@@ -17,7 +17,7 @@ title: Introduction to German
 
 <div class="col-sm-3">
 <h3>Deutscher Bundestag</h3>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Berlin_-_Reichstag_-_2020_-_cropped.jpg" width="250"height="150"></p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Berlin_-_Reichstag_-_2020_-_cropped.jpg" width="250" height="150"></p>
 <p>On September 7, 1949, the German Bundestag held its first constituent meeting in Bonn. Four years after the end of the war and the collapse of the National Socialist government, this signified a fresh beginning in the west of the partitioned country's west.  Since then, the German Bundestag has been at the foundation of the democratic system of the Federal Republic of Germany.</p>
 </div>
   
