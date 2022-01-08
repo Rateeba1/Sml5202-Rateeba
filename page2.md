@@ -18,7 +18,7 @@ title: Introduction to German
 <div class="col-sm-3">
 <h3>Deutscher Bundestag</h3>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Berlin_-_Reichstag_-_2020_-_cropped.jpg" width="250" height="150"></p>
-<p>On September 7, 1949, the German Bundestag held its first constituent meeting in Bonn. Four years after the end of the war and the collapse of the National Socialist government, this signified a fresh beginning in the west of the partitioned country's west.  Since then, the German Bundestag has been at the foundation of the democratic system of the Federal Republic of Germany.</p>
+<p>The Reichstag building is one of Berlin's most popular tourist attractions. After Germany's national unification and the founding of the German Reich in 1871, the Reichstag building was completed in 1894. The building's 24 million marks were derived from French war reparations. The Reichstag was extensively destroyed by Allied bombs and fighting after WWII. This also meant that the Reichstag could no longer serve as a seat of government since West Germany's capital had moved to Bonn. In 1955, it was then agreed that the German Bundestag's structure should be restored. The design of the Reichstag building's refurbishment was chosen through an architectural competition. The rebuild, which occurred from 1961 to 1964, was designed by the architect Paul Baumgarten. However. the building was mainly unused after German Reunification in 1990. The Reichstag currently serves as the seat of the German federal parliament.The Reichstag Building's terrace and dome are open to the public and provide stunning views over the parliamentary and government areas as well as Berlin's landmarks.</p>
 </div>
   
 <div class="col-sm-3">
