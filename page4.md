@@ -78,4 +78,12 @@ table, th, td {
 <script src="wiki.js"></script>
 
 <h2>German Sentence Strucures</h2>
-<p>When forming sentences in German, there are a few elements that need to be in a certain order that you will need to keep in mind.In German, the following are the fundamental components of a sentence:</p>
+<p>When forming sentences in German, there are a few elements that need to be in a certain order that you will need to keep in mind.</p>
+
+<p>In German, the following are the fundamental components of a sentence:</</p>
+<ul>
+<li>Subject</li>
+<li>Verb</li>
+<li>Complement</li>
+<li>Object&nbsp;</li>
+</ul>
