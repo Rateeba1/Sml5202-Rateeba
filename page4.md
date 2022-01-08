@@ -65,6 +65,18 @@ table, th, td {
 
 <iframe src="https://h5p.org/h5p/embed/1229091" width="1090" height="683" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="German verbs"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> 
 
+
+<h2>German Sentence Strucures</h2>
+<p>When forming sentences in German, there are a few elements that need to be in a certain order that you will need to keep in mind.</p>
+
+<p>In German, the following are the fundamental components of a sentence:</p>
+<ul>
+<li>Subject</li>
+<li>Verb</li>
+<li>Complement</li>
+<li>Object&nbsp;</li>
+</ul>
+
 <header class="searchForm-container">
 <img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
 <form class="searchForm">
@@ -76,14 +88,3 @@ table, th, td {
 </header>
 <section class="searchResults"></section>
 <script src="wiki.js"></script>
-
-<h2>German Sentence Strucures</h2>
-<p>When forming sentences in German, there are a few elements that need to be in a certain order that you will need to keep in mind.</p>
-
-<p>In German, the following are the fundamental components of a sentence:</</p>
-<ul>
-<li>Subject</li>
-<li>Verb</li>
-<li>Complement</li>
-<li>Object&nbsp;</li>
-</ul>
