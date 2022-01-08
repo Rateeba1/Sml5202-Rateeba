@@ -77,6 +77,8 @@ table, th, td {
 <li>Object&nbsp;</li>
 </ul>
 
+<p>A subject is the component of a sentence that performs an action (verb). t A noun (proper noun) or a pronoun ( I, you, we she)  can be the subject of a sentence.</p>
+
 <header class="searchForm-container">
 <img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
 <form class="searchForm">
