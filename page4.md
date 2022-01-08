@@ -72,3 +72,6 @@ table, th, td {
 </header>
 <section class="searchResults"></section>
 <script src="wiki.js"></script>
+
+<h2>German Nouns</h2>
+<p>A German noun can easily be identified as it always begins with a capital letter, regardless of where it appears in the phrase.A noun is a term that is used to name the following things: person, creature, place or a thing.</p>
