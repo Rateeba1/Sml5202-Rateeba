@@ -77,8 +77,14 @@ table, th, td {
 <li>Object&nbsp;</li>
 </ul>
 
-<p>A subject is the component of a sentence that performs an action (verb). t A noun (proper noun) or a pronoun ( I, you, we she)  can be the subject of a sentence.</p>
+<p>A subject is the component of a sentence that performs an action (verb). t A noun (proper noun) or a pronoun ( I, you, we she)  can be the subject of a sentence.In a sentence, the verb is the most important part. A direct object is required by some verbs. The object is a part of the sentence where the action is carried out on. Some verbs do not require an object, but they do require a complement to complete the sentence. A complement may consist of a single word or a group of words (adjectives, particles, adverbs, and other adverbs). </p>
 
+<h2>Example</h2>
+<p>Ich schlafe auf dem Bett</p>
+<p>I am sleeping on the bed</p>
+<p>Ich (Pronoun) schlafe (Verb) auf dem Bett (Object)</p>
+  
+  
 <header class="searchForm-container">
 <img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
 <form class="searchForm">
