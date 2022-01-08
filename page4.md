@@ -10,7 +10,8 @@ table, th, td {
 </style>
 <body>
 
-<h2>A basic HTML table</h2>
+<h2>German Articles</h2>
+<p>A noun in German can be masculine, feminine, or neuter.</p>
 
 <table style="width:100%">
   <tr>
@@ -76,3 +77,5 @@ table, th, td {
 <section class="searchResults"></section>
 <script src="wiki.js"></script>
 
+<h2>German Sentence Strucures</h2>
+<p>When forming sentences in German, there are a few elements that need to be in a certain order that you will need to keep in mind.In German, the following are the fundamental components of a sentence:</p>
