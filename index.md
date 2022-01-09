@@ -44,3 +44,5 @@ title: German Language Learning
 <li>German Verbs</li>  
 <li>German Sentence Structure</li>  
 </ul>  
+
+<p>The last page will be exercise based and will allow you to test yourself.</p>
