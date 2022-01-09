@@ -2,7 +2,7 @@
 title: Introduction to Germany's History and Landmarks
 ---
 
-<h1>Introduction to Germany's History and Landmarks</h1>
+<h1>Germany's History and Landmarks</h1>
 <p>This page will give an introduction to the history behind Germany’s top landmarks.  It will give you a summarised history of each landmark as well as how it currently serves.</p>
 <div class="row">
 <div class="col-sm-3">
