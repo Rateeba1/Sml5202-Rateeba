@@ -1,5 +1,5 @@
 <h1>German Culture</h1>
-<p>write your content in this file as you would normally</p>
+<p>This page will give you information on two of Germany’s most popular festivals. Make sure you read the information carefully as you will be tested in the Quiz section!</p>
 
 
 <div class="row">
