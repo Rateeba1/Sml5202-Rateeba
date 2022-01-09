@@ -40,7 +40,7 @@ title: German Language Learning
 <p> Grammar 
 <ul>
 <li>German Articles</li>
-<li>German Nounds</li>
+<li>German Nouns</li>
 <li>German Verbs</li>  
 <li>German Sentence Structure</li>  
 </ul>  
