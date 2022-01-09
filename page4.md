@@ -1,5 +1,5 @@
 <h1>Grammar</h1>
-<p>This page will provide you an introduction to the basics of German grammar. The main focus will be on German Articles, Nouns , Verbs andd Sentence Structure. Use the Flashcards to learn the words, and make sure to look at the sentence structures section.</p>
+<p>This page will provide you an introduction to the basics of German grammar. The main focus will be on German Articles, Nouns, Verbs andd Sentence Structure. Use the Flashcards to learn the words, and make sure to look at the sentence structures section.</p>
 
 <html>
 <style>
