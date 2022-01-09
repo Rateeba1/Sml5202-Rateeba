@@ -1,5 +1,5 @@
 <h1>Page 5</h1>
-<p>write your content in this file as you would normally</p>
+<p>This page allows you to test yourself on the information you have visited in the previous pages.</p>
 
 <h1>History:</h1>
 <p>1.Schloss Neuschwanstein</p>
