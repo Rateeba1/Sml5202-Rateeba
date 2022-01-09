@@ -18,7 +18,7 @@
 <h3>Fasching (Karneval)</h3> 
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Karnevalsumzug_2017_in_Erfurt_%2832975402682%29.jpg" width="500" height="333"><p/>
 <p>Image Source: Tobias Nordhausen, Wikimedia</p>
-<p>Fasching, commonly known as Karneval or Fastnacht, is a historic German festival. Fasching is a German tradition that is observed in all German-speaking countries. Fasching allows people to rejoice and have enjoyment before Lent begins. Germany hosts the largest and most colourful carnivals to commemorate the Fasching season, with each city hosting its unique festivities. Cologne also known as Köln hosts one of the country's largest carnival events.
+<p>Fasching, commonly known as Karneval or Fastnacht, is a historic German festival. Fasching is a German tradition that is observed in all German-speaking countries. Fasching allows people to rejoice and have enjoyment before Lent begins. Germany hosts the largest and most colourful carnivals to commemorate the Fasching season, with each city hosting its unique festivities. Cologne, also known as Köln, hosts one of the country's largest carnival events.
 </p>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Berliner_Pfannkuchen_5.jpg" width="500" height="333"></p>
 <p>Image Source: Sebastian Koppehel, Wikimedia</p>
