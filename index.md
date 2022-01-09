@@ -28,4 +28,19 @@ title: German Language Learning
 <p> History 
 <ul>
 <li>Schloss Neuschwanstein</li>
-<li>Deutscher Bundestag</li>
+<li>Reichstag</li>
+<li>Cologne Cathedral</li>
+<li>Römer</li>
+</ul>
+<p> Culture 
+<ul>
+<li>Oktoberfest</li>
+<li>Fasching</li>  
+</ul>
+<p> Grammar 
+<ul>
+<li>German Articles</li>
+<li>German Nounds</li>
+<li>German Verbs</li>  
+<li>German Sentence Structure</li>  
+</ul>  
