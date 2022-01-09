@@ -2,7 +2,7 @@
 title: German Language Learning
 ---
 
-<h1>Welcome</h1>
+<h1>Welcome:</h1>
 <p> This website is designed to assist you in learning the fundamentals of the German language and developing an understanding of the key aspects of German culture.
 </p>
 
