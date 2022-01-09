@@ -32,7 +32,7 @@ title: Introduction to Germany's History and Landmarks
 <h3>Römer</h3>
 <p><img src= "https://upload.wikimedia.org/wikipedia/commons/b/b5/Römer%2C_Frankfurt.jpg" width="250" height="150"></p>
 <p>The medieval Römer building is a significant part of the Römerplatz (Römer Square) in Frankfurt's Altstadt and is one of the city's most famous buildings. The Römer's initial building dates back to the 15th century. Many changes have been made to the original design over the years. The latest extension to the original structure was completed in 1908. The Kaisersaal, also known as the Emperor's Hall, was where grand coronation feasts were held and where Napoleon, Russian Czars, and other royals paid visits. During World War II, much of Römerberg center and the Römer buildings were destroyed, but what was left was quickly rebuilt. The Römerhalle and Schwanenhalle, located below ground level, were spared from the bombs and have now become tourist attractions and venues for private and public events. The wedding halls are located on the first and second levels of the Römer. The main building also also serves as a standesamt (civil registration office).</p>
-<p>>Image Source: Wikimedia</p>
+<p>Image Source: Wikimedia</p>
 </div>
 
 </div>
