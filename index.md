@@ -46,3 +46,9 @@ title: German Language Learning
 </ul>  
 
 <p>The last page will be exercise based and will allow you to test yourself.</p>
+
+<p>Watch this quick video to get ahort overview of Germany</p>
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D7e8sv7lFeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe</body>
+
+
