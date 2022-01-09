@@ -1,5 +1,5 @@
 <h1>Grammar</h1>
-<p>write your content in this file as you would normally</p>
+<p>This page will provide you an introduction to the basics of German grammar.The main focus will be on German Articles, Nouns , Verbs andd Sentence Structure. Use the Flashcards to learn the words, and make sure to look at the sentence structures section.</p>
 
 <html>
 <style>
@@ -52,13 +52,11 @@ table, th, td {
   
 </table>
 
-<p>To undestand the example better, we have added borders to the table.</p>
-
 </body>
 </html>
 
 <h2>German Nouns</h2>
-<p>A German noun can easily be identified as it always begins with a capital letter, regardless of where it appears in the phrase.A noun is a term that is used to name the following things: person, creature, place or a thing.</p>
+<p>A German noun can easily be identified as it always begins with a capital letter, regardless of where it appears in the sentence. A noun is a term that is used to name the following things: person, creature, place or a thing.</p>
 
 <iframe src="https://h5p.org/h5p/embed/1240678" width="1038" height="845" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Common German Nouns"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -66,7 +64,7 @@ table, th, td {
 <iframe src="https://h5p.org/h5p/embed/1229091" width="1090" height="683" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="German verbs"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> 
 
 
-<h2>German Sentence Strucures</h2>
+<h2>German Sentence Structures</h2>
 <p>When forming sentences in German, there are a few elements that need to be in a certain order that you will need to keep in mind.</p>
 
 <p>In German, the following are the fundamental components of a sentence:</p>
@@ -77,7 +75,7 @@ table, th, td {
 <li>Object&nbsp;</li>
 </ul>
 
-<p>A subject is the component of a sentence that performs an action (verb). t A noun (proper noun) or a pronoun ( I, you, we she)  can be the subject of a sentence.In a sentence, the verb is the most important part. A direct object is required by some verbs. The object is a part of the sentence where the action is carried out on. Some verbs do not require an object, but they do require a complement to complete the sentence. A complement may consist of a single word or a group of words (adjectives, particles, adverbs, and other adverbs). </p>
+<p>A subject is the component of a sentence that performs an action (verb). A noun (proper noun) or a pronoun ( I, you, we she) can be the subject of a sentence. In a sentence, the verb is the most important part. A direct object is required by some verbs. The object is a part of the sentence where the action is carried out on. Some verbs do not require an object, but they do require a complement to complete the sentence. A complement may consist of a single word or a group of words (adjectives, particles, adverbs, and other adverbs).</p>
 
 <h2>Example</h2>
 <p>German: Ich schlafe auf dem Bett</p>
