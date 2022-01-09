@@ -1,8 +1,8 @@
 ---
 title: German Language Learning
 ---
-
-<h1>Welcome:</h1>
+<p>Student ID: 200360485</p>
+<h1>Welcome</h1>
 <p> This website is designed to assist you in learning the fundamentals of the German language and developing an understanding of the key aspects of German culture.
 </p>
 
@@ -51,4 +51,3 @@ title: German Language Learning
 <p>Watch this quick video to get a short overview of Germany</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D7e8sv7lFeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe</body>
 
-<h1>Student ID: 200360485</h1>
