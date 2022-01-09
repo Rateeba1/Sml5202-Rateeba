@@ -1,5 +1,8 @@
 <h1>Page 5</h1>
 <p>This page allows you to test yourself on the information you have visited in the previous pages.</p>
+<p>Questions 1-4 are based on History</p>
+<p>Questions 5-6 are based on German Culture</p>
+<p>Questions 7-8 is based on German Grammar</p>
 
 <h1>History:</h1>
 <p>1. Schloss Neuschwanstein</p>
