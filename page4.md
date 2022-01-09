@@ -62,7 +62,7 @@ table, th, td {
 
 <h2>German Verbs</h2> 
 
-<iframe src="https://h5p.org/h5p/embed/1241061" width="1038" height="658" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="German Verbs"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script
+<iframe src="https://h5p.org/h5p/embed/1241061" width="1038" height="658" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="German Verbs"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 <h2>German Sentence Structures</h2>
