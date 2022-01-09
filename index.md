@@ -29,7 +29,7 @@ title: German Language Learning
 <ul>
 <li>Schloss Neuschwanstein</li>
 <li>Reichstag</li>
-<li>Cologne Cathedral</li>
+<li>Kölner Dom</li>
 <li>Römer</li>
 </ul>
 <p> Culture 
